@@ -1,0 +1,27 @@
+﻿<Page
+    x:Class="Esercizio1.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Esercizio1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <StackPanel Background="White">
+            <TextBlock Foreground="#FF941B1B">Ciao
+            </TextBlock>
+            <TextBlock>Scrivi il tuo nome.</TextBlock>
+            <TextBox x:Name="txtNameInput"></TextBox>
+            <Button x:Name="btnNameInput" Click="btnNameInput_Click" Background="Aqua">Click me</Button>
+            <TextBlock x:Name="txbSaluti" Foreground="Black"></TextBlock>
+            <HyperlinkButton Content="Click to go to page 2"
+                 Click="HyperlinkButton_Click"
+                 Background="Chocolate"
+                 Foreground="Black"
+                 HorizontalAlignment="Center"/>
+        </StackPanel>
+
+    </Grid>
+</Page>
