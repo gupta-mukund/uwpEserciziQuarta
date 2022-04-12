@@ -29,12 +29,12 @@ namespace esercizio1
 
         private void MenuFlyoutItem_Click(object sender, RoutedEventArgs e)
         {
-
+            this.Frame.Navigate(typeof(Page2));
         }
 
         private void MenuFlyoutItem_Click_1(object sender, RoutedEventArgs e)
         {
-
+            this.Frame.Navigate(typeof(Page3));
         }
     }
 }

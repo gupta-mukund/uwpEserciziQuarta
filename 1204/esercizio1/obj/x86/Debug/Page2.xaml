@@ -10,11 +10,12 @@
 
     <Grid>
         <StackPanel>
-            <Image x:Name="img" Source="{Binding Immagine}" />
-            <TextBlock x:Name="title" Text="{Binding Titolo}"/>
-            <TextBlock x:Name="materia" Text="{Binding Materia}"/>
-            <TextBlock x:Name="editore" Text="{Binding Editore}"/>
+            <Image x:ConnectionId='2' x:Name="img" Source="{Binding Immagine}" />
+            <TextBlock x:ConnectionId='3' x:Name="title" Text="{Binding Titolo}"/>
+            <TextBlock x:ConnectionId='4' x:Name="materia" Text="{Binding Materia}"/>
+            <TextBlock x:ConnectionId='5' x:Name="editore" Text="{Binding Editore}"/>
 
         </StackPanel>
     </Grid>
 </Page>
+

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\6190006\\Desktop\\uwpEserciziQuarta\\1204\\esercizio1\\esercizio1.csproj": {}
+    "C:\\Users\\gupta\\OneDrive\\Desktop\\scuola\\quarta\\informatica\\c#\\uwp\\1204\\esercizio1\\esercizio1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\6190006\\Desktop\\uwpEserciziQuarta\\1204\\esercizio1\\esercizio1.csproj": {
+    "C:\\Users\\gupta\\OneDrive\\Desktop\\scuola\\quarta\\informatica\\c#\\uwp\\1204\\esercizio1\\esercizio1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\6190006\\Desktop\\uwpEserciziQuarta\\1204\\esercizio1\\esercizio1.csproj",
+        "projectUniqueName": "C:\\Users\\gupta\\OneDrive\\Desktop\\scuola\\quarta\\informatica\\c#\\uwp\\1204\\esercizio1\\esercizio1.csproj",
         "projectName": "esercizio1",
-        "projectPath": "C:\\Users\\6190006\\Desktop\\uwpEserciziQuarta\\1204\\esercizio1\\esercizio1.csproj",
-        "packagesPath": "C:\\Users\\6190006\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\6190006\\Desktop\\uwpEserciziQuarta\\1204\\esercizio1\\obj\\",
+        "projectPath": "C:\\Users\\gupta\\OneDrive\\Desktop\\scuola\\quarta\\informatica\\c#\\uwp\\1204\\esercizio1\\esercizio1.csproj",
+        "packagesPath": "C:\\Users\\gupta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gupta\\OneDrive\\Desktop\\scuola\\quarta\\informatica\\c#\\uwp\\1204\\esercizio1\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -20,7 +20,7 @@
           "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\6190006\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gupta\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"

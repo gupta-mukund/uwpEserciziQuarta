@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9d8a68n7y1tLKuHqUbD4pT/VOZyrsNjb6npCLyH3cvvReOPxHYVyqHz+4IXZ9m1I+cmfmpvNgz2VzFwX9BHd3A==",
+  "dgSpecHash": "DfYLz3NXE7bme4/cUbliKTVY++R00OcKqaFFPBR5VQ753ghVAsSRGLkqdvhkT51+tLr6fxAu8NdwHpxAqCCW+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\6190006\\Desktop\\uwpEserciziQuarta\\1204\\esercizio1\\esercizio1.csproj",
+  "projectFilePath": "C:\\Users\\gupta\\OneDrive\\Desktop\\scuola\\quarta\\informatica\\c#\\uwp\\1204\\esercizio1\\esercizio1.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.native.compiler\\2.2.10-rel-29722-00\\microsoft.net.native.compiler.2.2.10-rel-29722-00.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.uwpcoreruntimesdk\\2.2.12\\microsoft.net.uwpcoreruntimesdk.2.2.12.nupkg.sha512",

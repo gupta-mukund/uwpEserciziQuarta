@@ -1,1 +1,1 @@
-C:\Users\6190006\Desktop\uwpEserciziQuarta\1204\esercizio1\esercizio1.csproj;x86
+C:\Users\gupta\OneDrive\Desktop\scuola\quarta\informatica\c#\uwp\1204\esercizio1\esercizio1.csproj;x86

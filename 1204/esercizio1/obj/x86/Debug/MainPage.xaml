@@ -12,13 +12,13 @@
         
         <StackPanel>
             
-            <TextBox x:Name="txtInput" TextWrapping="Wrap"/>
+            <TextBox x:ConnectionId='2' x:Name="txtInput" TextWrapping="Wrap"/>
             <TextBlock Text="{Binding ElementName=txtInput, Path=Text}"/>
             <Button Content="Pagine">
             <Button.Flyout>
                     <MenuFlyout>
-                        <MenuFlyoutItem Text="Page 2" Click="MenuFlyoutItem_Click"/>
-                        <MenuFlyoutItem Text="Page 3" Click="MenuFlyoutItem_Click_1"/>
+                        <MenuFlyoutItem x:ConnectionId='3' Text="Page 2"                             />
+                        <MenuFlyoutItem x:ConnectionId='4' Text="Page 3"                               />
                         <MenuFlyoutSeparator />
                     </MenuFlyout>
             </Button.Flyout>
@@ -29,3 +29,4 @@
 
     </Grid>
 </Page>
+
